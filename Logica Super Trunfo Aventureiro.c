@@ -85,4 +85,18 @@ printf("PIB do País: %.3f (Trilhões de US$)\n", pib2);
 printf("Número de pontos turísticos: %d\n", pontos2);
 printf("Densidade Populacional: %.2f hab/km2\n", densidade2);
 
+// Área para a escolha do atributo a ser comparado
+
+printf("### MENU DE COMPARAÇÃO ####\n");
+printf("\n");
+printf("ESCOLHA UM ATRIBUTO:");
+
+
+
+
+
+
+
+
+
 }
