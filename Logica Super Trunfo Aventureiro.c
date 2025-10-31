@@ -90,10 +90,11 @@ printf("Densidade Populacional: %.2f hab/km2\n", densidade2);
 printf("### MENU DE COMPARAÇÃO ####\n");
 printf("\n");
 printf("ESCOLHA UM ATRIBUTO:");
-
-
-
-
+printf("1. População (Maior Vence)\n");
+printf("2. Área (Maior vence)\n");
+printf("3. PIB (Maior vence)\n");
+printf("4. Pontos turísticos (Maior vence)\n");
+printf("2. Densidade populacional (Menor vence)\n");
 
 
 
